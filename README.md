@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kowi-kowi
 - 👀 I’m interested in python programing, mostly process automatization, data science, and lately web applications
-- 🌱 I’m currently learning 
+- 🌱 I’m always learning 
 - 📫 How to reach me kowi.db.kowi@gmail.com
 
 <!---
